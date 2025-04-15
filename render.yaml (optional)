@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: problem-recommender-api
-    runtime: python
-    buildCommand: ""
-    startCommand: "python app.py"
-    env: python
